@@ -9,4 +9,4 @@
   * плавные переходы, при наведении на ссылку
 * заполнил файл README.md
 
-[Бриa с заданием (https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf)]
+[Бриф](https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf)
