@@ -1,7 +1,3 @@
 .table_theme_dark {
    color: white;
-   display: flex;
-   flex-wrap: wrap;
-   position: relative;
-   z-index: 1;
  }
